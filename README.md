@@ -1,5 +1,5 @@
 <img width="1100" src="https://github.com/JMBeling/dicas_readme/assets/95389587/c66eabbd-97b2-406b-bd89-e90445e99150">
-<h1>🔆🔆🔆Dicas para Personalizar o seu Readme Pessoal!🔆🔆🔆</h1>
+<h1>🔆Dicas para Personalizar o seu Readme Pessoal!🔆</h1>
 <ul>
   <h2>ADICIONE UMA IMAGEM</h2>
   <li>Primeiro arraste a imagem dos arquivos do seu pc direto para o editor de código</li>
