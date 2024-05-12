@@ -4,7 +4,7 @@
   <h2>ADICIONE UMA IMAGEM</h2>
   <li>Primeiro arraste a imagem dos arquivos do seu pc direto para o editor de código</li>
   <br>
-  <li>Ela vai abrir assim:</li>
+  <li>Ela vai abrir mais ou menos assim:</li>
   <p>![cool-fun](https://github.com/JMBeling/dicas_readme/assets/95389587/afde209d-24a3-43b9-b179-301c291a295b)</p>
   <li>Copie apenas essa parte:</li>
   <p>https://github.com/JMBeling/dicas_readme/assets/95389587/afde209d-24a3-43b9-b179-301c291a295b</p>
@@ -18,3 +18,4 @@
   <br>
   <img width="20%" src="https://github.com/JMBeling/dicas_readme/assets/95389587/afde209d-24a3-43b9-b179-301c291a295b">
 </ul>
+<img width="1100" src="https://github.com/JMBeling/dicas_readme/assets/95389587/c66eabbd-97b2-406b-bd89-e90445e99150">
